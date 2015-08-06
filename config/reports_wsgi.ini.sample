@@ -1,0 +1,28 @@
+[server:main]
+use = egg:Paste#http
+port = 9001
+host = 127.0.0.1
+use_threadpool = true
+threadpool_workers = 10
+
+[filter:proxy-prefix]
+use = egg:PasteDeploy#prefix
+prefix = /reports
+
+[app:main]
+paste.app_factory = galaxy.webapps.reports.buildapp:app_factory
+log_level = DEBUG
+use_beaker_session = True
+session_type = memory
+session_data_dir = %(here)s/database/beaker_sessions
+session_key = galaxysessions
+session_secret = changethisinproduction
+use_lint = false
+sendmail_path = /usr/sbin/sendmail
+mailing_join_addr = galaxy-user-join@bx.psu.edu
+use_new_layout = true
+filter-with = proxy-prefix
+new_file_path = /mnt/galaxy/tmp
+database_connection = postgres://galaxy@localhost:5930/galaxy
+file_path = /mnt/galaxy/files
+
