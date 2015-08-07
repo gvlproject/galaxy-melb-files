@@ -383,6 +383,19 @@
         <tool id="toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastdbcmd_wrapper/0.1.03" />
         <tool id="toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/blastxml_to_tabular/0.1.05" />
     </section>
+    <section id="snpeff" name="snpEff" version="">
+        <tool id="toolshed.g2.bx.psu.edu/repos/iuc/snpeff/snpEff/4.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/iuc/snpeff/snpEff_databases/4.0.0" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/iuc/snpeff/snpEff_download/4.0.0" />
+    </section>
+    <section id="multiple_regression" name="Multiple regression" version="">
+    </section>
+    <section id="multivariate_analysis" name="Multivariate Analysis" version="">
+    </section>
+    <section id="regional_variation" name="Regional Variation" version="">
+    </section>
+    <section id="hgv" name="HGV" version="">
+    </section>
     <label id="ngs_analysis" text="NGS Analysis" version="" />
     <section id="NGS_QC" name="NGS: QC and manipulation" version="">
         <tool id="toolshed.g2.bx.psu.edu/repos/devteam/fastq_trimmer_by_quality/fastq_quality_trimmer/1.0.0" />
@@ -489,18 +502,5 @@
         <tool id="toolshed.g2.bx.psu.edu/repos/devteam/gi2taxonomy/Fetch Taxonomic Ranks/1.1.0" />
         <tool id="toolshed.g2.bx.psu.edu/repos/devteam/find_diag_hits/find_diag_hits/1.0.0" />
         <tool id="toolshed.g2.bx.psu.edu/repos/devteam/best_regression_subsets/BestSubsetsRegression1/1.0.0" />
-    </section>
-    <section id="snpeff" name="snpEff" version="">
-        <tool id="toolshed.g2.bx.psu.edu/repos/iuc/snpeff/snpEff/4.0.0" />
-        <tool id="toolshed.g2.bx.psu.edu/repos/iuc/snpeff/snpEff_databases/4.0.0" />
-        <tool id="toolshed.g2.bx.psu.edu/repos/iuc/snpeff/snpEff_download/4.0.0" />
-    </section>
-    <section id="multiple_regression" name="Multiple regression" version="">
-    </section>
-    <section id="multivariate_analysis" name="Multivariate Analysis" version="">
-    </section>
-    <section id="regional_variation" name="Regional Variation" version="">
-    </section>
-    <section id="hgv" name="HGV" version="">
     </section>
 </toolbox>
