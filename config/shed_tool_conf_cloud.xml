@@ -44,9 +44,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/tabular_to_fasta/tab2fasta/1.1.0</id>
         <version>1.1.0</version>
     </tool>
-</section>
-
-<section id="convert" name="Convert Formats" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/tabular_to_fastq/b334cd1095ea/tabular_to_fastq/tabular_to_fastq.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/tabular_to_fastq/tabular_to_fastq/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>tabular_to_fastq</repository_name>
@@ -66,9 +63,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/change_case/ChangeCase/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="textutil" name="Text Manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/column_maker/08a01b2ce4cd/column_maker/column_maker.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/column_maker/Add_a_column1/1.1.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>column_maker</repository_name>
@@ -77,9 +71,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/column_maker/Add_a_column1/1.1.0</id>
         <version>1.1.0</version>
     </tool>
-</section>
-
-<section id="textutil" name="Text Manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/condense_characters/af7fe71973ac/condense_characters/condense_characters.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/condense_characters/Condense characters1/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>condense_characters</repository_name>
@@ -88,9 +79,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/condense_characters/Condense characters1/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="textutil" name="Text Manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/convert_characters/b1cac85bdd7a/convert_characters/convert_characters.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/convert_characters/Convert characters1/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>convert_characters</repository_name>
@@ -99,9 +87,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/convert_characters/Convert characters1/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="textutil" name="Text Manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/cut_columns/1378064e5d24/cut_columns/cutWrapper.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/cut_columns/Cut1/1.0.1">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>cut_columns</repository_name>
@@ -110,9 +95,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/cut_columns/Cut1/1.0.1</id>
         <version>1.0.1</version>
     </tool>
-</section>
-
-<section id="textutil" name="Text Manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/merge_cols/f2aac0c5c60d/merge_cols/mergeCols.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/merge_cols/mergeCols1/1.0.1">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>merge_cols</repository_name>
@@ -121,9 +103,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/merge_cols/mergeCols1/1.0.1</id>
         <version>1.0.1</version>
     </tool>
-</section>
-
-<section id="textutil" name="Text Manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/remove_beginning/bb66956af1eb/remove_beginning/remove_beginning.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/remove_beginning/Remove beginning1/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>remove_beginning</repository_name>
@@ -132,9 +111,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/remove_beginning/Remove beginning1/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="textutil" name="Text Manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/show_beginning/618fbda86659/show_beginning/headWrapper.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/show_beginning/Show beginning1/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>show_beginning</repository_name>
@@ -143,9 +119,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/show_beginning/Show beginning1/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="textutil" name="Text Manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/show_tail/e1c9fd6651f8/show_tail/tailWrapper.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/show_tail/Show tail1/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>show_tail</repository_name>
@@ -165,9 +138,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/pearson_correlation/Pearson_and_apos_Correlation1/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/categorize_elements_satisfying_criteria/586c1f0e1515/categorize_elements_satisfying_criteria/categorize_elements_satisfying_criteria.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/categorize_elements_satisfying_criteria/categorize_elements_satisfying_criteria/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>categorize_elements_satisfying_criteria</repository_name>
@@ -176,9 +146,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/categorize_elements_satisfying_criteria/categorize_elements_satisfying_criteria/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/compute_motif_frequencies_for_all_motifs/acc3dc5d26e3/compute_motif_frequencies_for_all_motifs/compute_motif_frequencies_for_all_motifs.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/compute_motif_frequencies_for_all_motifs/compute_motif_frequencies_for_all_motifs/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>compute_motif_frequencies_for_all_motifs</repository_name>
@@ -187,9 +154,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/compute_motif_frequencies_for_all_motifs/compute_motif_frequencies_for_all_motifs/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/compute_motifs_frequency/46325357b948/compute_motifs_frequency/compute_motifs_frequency.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/compute_motifs_frequency/compute_motifs_frequency/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>compute_motifs_frequency</repository_name>
@@ -198,9 +162,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/compute_motifs_frequency/compute_motifs_frequency/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/correlation/24e01abf9e34/correlation/cor.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/correlation/cor2/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>correlation</repository_name>
@@ -209,9 +170,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/correlation/cor2/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/dwt_cor_ava_perclass/a0defff5cf89/dwt_cor_ava_perclass/execute_dwt_cor_aVa_perClass.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/dwt_cor_ava_perclass/compute_p-values_correlation_coefficients_feature_occurrences_between_two_datasets_using_discrete_wavelet_transfom/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>dwt_cor_ava_perclass</repository_name>
@@ -220,9 +178,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/dwt_cor_ava_perclass/compute_p-values_correlation_coefficients_feature_occurrences_between_two_datasets_using_discrete_wavelet_transfom/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/dwt_cor_avb_all/8564f6927b87/dwt_cor_avb_all/execute_dwt_cor_aVb_all.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/dwt_cor_avb_all/compute_p-values_correlation_coefficients_featureA_featureB_occurrences_between_two_datasets_using_discrete_wavelet_transfom/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>dwt_cor_avb_all</repository_name>
@@ -231,9 +186,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/dwt_cor_avb_all/compute_p-values_correlation_coefficients_featureA_featureB_occurrences_between_two_datasets_using_discrete_wavelet_transfom/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/dwt_ivc_all/0b89b03ad760/dwt_ivc_all/execute_dwt_IvC_all.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/dwt_ivc_all/compute_p-values_second_moments_feature_occurrences_between_two_datasets_using_discrete_wavelet_transfom/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>dwt_ivc_all</repository_name>
@@ -242,9 +194,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/dwt_ivc_all/compute_p-values_second_moments_feature_occurrences_between_two_datasets_using_discrete_wavelet_transfom/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/dwt_var_perclass/cb422b6f49d2/dwt_var_perclass/execute_dwt_var_perClass.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/dwt_var_perclass/compute_p-values_max_variances_feature_occurrences_in_one_dataset_using_discrete_wavelet_transfom/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>dwt_var_perclass</repository_name>
@@ -253,9 +202,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/dwt_var_perclass/compute_p-values_max_variances_feature_occurrences_in_one_dataset_using_discrete_wavelet_transfom/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/dwt_var_perfeature/d56c5d2e1a29/dwt_var_perfeature/execute_dwt_var_perFeature.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/dwt_var_perfeature/dwt_var1/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>dwt_var_perfeature</repository_name>
@@ -264,9 +210,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/dwt_var_perfeature/dwt_var1/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/generate_pc_lda_matrix/04cdbd00dcec/generate_pc_lda_matrix/generate_matrix_for_pca_lda.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/generate_pc_lda_matrix/generate_matrix_for_pca_and_lda1/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>generate_pc_lda_matrix</repository_name>
@@ -275,9 +218,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/generate_pc_lda_matrix/generate_matrix_for_pca_and_lda1/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/histogram/6ff47de059a0/histogram/histogram2.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/histogram/histogram_rpy/1.0.3">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>histogram</repository_name>
@@ -286,9 +226,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/histogram/histogram_rpy/1.0.3</id>
         <version>1.0.3</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/lda_analysis/f38763b52f33/lda_analysis/lda_analy.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/lda_analysis/lda_analy1/1.0.1">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>lda_analysis</repository_name>
@@ -297,9 +234,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/lda_analysis/lda_analy1/1.0.1</id>
         <version>1.0.1</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/plot_from_lda/c5ab37076128/plot_from_lda/plot_from_lda.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/plot_from_lda/plot_for_lda_output1/1.0.1">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>plot_from_lda</repository_name>
@@ -308,9 +242,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/plot_from_lda/plot_for_lda_output1/1.0.1</id>
         <version>1.0.1</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/poisson2test/8cd5945559b8/poisson2test/poisson2test.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/poisson2test/poisson2test/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>poisson2test</repository_name>
@@ -319,9 +250,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/poisson2test/poisson2test/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/scatterplot/c12b0759203b/scatterplot/scatterplot.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/scatterplot/scatterplot_rpy/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>scatterplot</repository_name>
@@ -330,9 +258,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/scatterplot/scatterplot_rpy/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="stats" name="Statistics" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/t_test_two_samples/e6a85a9297b3/t_test_two_samples/t_test_two_samples.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/t_test_two_samples/t_test_two_samples/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>t_test_two_samples</repository_name>
@@ -352,9 +277,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/draw_stacked_barplots/draw_stacked_barplots/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="plots" name="Graph/Display Data" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_boxplot/f95284aa2946/fastq_quality_boxplot/fastq_quality_boxplot.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_boxplot/cshl_fastq_quality_boxplot/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastq_quality_boxplot</repository_name>
@@ -363,9 +285,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_boxplot/cshl_fastq_quality_boxplot/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="plots" name="Graph/Display Data" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/gmaj/2cd5ee197ec7/gmaj/GMAJ.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/gmaj/gmaj_1/2.0.1">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>gmaj</repository_name>
@@ -374,9 +293,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/gmaj/gmaj_1/2.0.1</id>
         <version>2.0.1</version>
     </tool>
-</section>
-
-<section id="plots" name="Graph/Display Data" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/weblogo3/a10f9ed463ae/weblogo3/rgWebLogo3.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/weblogo3/rgweblogo3/0.4">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>weblogo3</repository_name>
@@ -385,9 +301,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/weblogo3/rgweblogo3/0.4</id>
         <version>0.4</version>
     </tool>
-</section>
-
-<section id="plots" name="Graph/Display Data" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/xy_plot/1a73a2406edc/xy_plot/xy_plot.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/xy_plot/XY_Plot_1/1.0.1">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>xy_plot</repository_name>
@@ -396,9 +309,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/xy_plot/XY_Plot_1/1.0.1</id>
         <version>1.0.1</version>
     </tool>
-</section>
-
-<section id="plots" name="Graph/Display Data" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/idot/prop_venn/cc6707a1e044/prop_venn/prop_venn.xml" guid="toolshed.g2.bx.psu.edu/repos/idot/prop_venn/prop_venn/0.5">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>prop_venn</repository_name>
@@ -418,9 +328,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/clustalw/clustalw/0.1</id>
         <version>0.1</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fasta_clipping_histogram/f2ab5b44870d/fasta_clipping_histogram/fasta_clipping_histogram.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fasta_clipping_histogram/cshl_fasta_clipping_histogram/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fasta_clipping_histogram</repository_name>
@@ -429,9 +336,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fasta_clipping_histogram/cshl_fasta_clipping_histogram/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fasta_compute_length/ece409f6573c/fasta_compute_length/fasta_compute_length.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fasta_compute_length/fasta_compute_length/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fasta_compute_length</repository_name>
@@ -440,9 +344,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fasta_compute_length/fasta_compute_length/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fasta_concatenate_by_species/717aee069681/fasta_concatenate_by_species/fasta_concatenate_by_species.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fasta_concatenate_by_species/fasta_concatenate0/0.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fasta_concatenate_by_species</repository_name>
@@ -451,9 +352,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fasta_concatenate_by_species/fasta_concatenate0/0.0.0</id>
         <version>0.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fasta_filter_by_length/16679a7f554a/fasta_filter_by_length/fasta_filter_by_length.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fasta_filter_by_length/fasta_filter_by_length/1.1">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fasta_filter_by_length</repository_name>
@@ -462,9 +360,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fasta_filter_by_length/fasta_filter_by_length/1.1</id>
         <version>1.1</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fasta_formatter/1dbb5181c327/fasta_formatter/fasta_formatter.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fasta_formatter/cshl_fasta_formatter/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fasta_formatter</repository_name>
@@ -473,9 +368,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fasta_formatter/cshl_fasta_formatter/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fasta_nucleotide_changer/2f868bfbe9de/fasta_nucleotide_changer/fasta_nucleotide_changer.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fasta_nucleotide_changer/cshl_fasta_nucleotides_changer/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fasta_nucleotide_changer</repository_name>
@@ -484,9 +376,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fasta_nucleotide_changer/cshl_fasta_nucleotides_changer/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fasta_to_tabular/9d189d08f2ad/fasta_to_tabular/fasta_to_tabular.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fasta_to_tabular/fasta2tab/1.1.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fasta_to_tabular</repository_name>
@@ -495,9 +384,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fasta_to_tabular/fasta2tab/1.1.0</id>
         <version>1.1.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_converter/b87c74b61d81/fastq_quality_converter/fastq_quality_converter.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_converter/cshl_fastq_quality_converter/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastq_quality_converter</repository_name>
@@ -506,9 +392,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_converter/cshl_fastq_quality_converter/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_filter/57adb07cccfc/fastq_quality_filter/fastq_quality_filter.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_filter/cshl_fastq_quality_filter/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastq_quality_filter</repository_name>
@@ -517,9 +400,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastq_quality_filter/cshl_fastq_quality_filter/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastqsolexa_to_fasta_qual/ef23c03d7497/fastqsolexa_to_fasta_qual/fastqsolexa_to_fasta_qual.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastqsolexa_to_fasta_qual/fastqsolexa_to_fasta_qual/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastqsolexa_to_fasta_qual</repository_name>
@@ -528,9 +408,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastqsolexa_to_fasta_qual/fastqsolexa_to_fasta_qual/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastx_artifacts_filter/c8808979ba33/fastx_artifacts_filter/fastx_artifacts_filter.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastx_artifacts_filter/cshl_fastx_artifacts_filter/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastx_artifacts_filter</repository_name>
@@ -539,9 +416,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastx_artifacts_filter/cshl_fastx_artifacts_filter/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastx_barcode_splitter/c46a5807f2b6/fastx_barcode_splitter/fastx_barcode_splitter.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastx_barcode_splitter/cshl_fastx_barcode_splitter/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastx_barcode_splitter</repository_name>
@@ -550,9 +424,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastx_barcode_splitter/cshl_fastx_barcode_splitter/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastx_clipper/8192b4014977/fastx_clipper/fastx_clipper.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastx_clipper/cshl_fastx_clipper/1.0.1">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastx_clipper</repository_name>
@@ -561,9 +432,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastx_clipper/cshl_fastx_clipper/1.0.1</id>
         <version>1.0.1</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastx_collapser/13c2d9e8c6d5/fastx_collapser/fastx_collapser.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastx_collapser/cshl_fastx_collapser/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastx_collapser</repository_name>
@@ -572,9 +440,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastx_collapser/cshl_fastx_collapser/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastx_nucleotides_distribution/9353010b95df/fastx_nucleotides_distribution/fastx_nucleotides_distribution.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastx_nucleotides_distribution/cshl_fastx_nucleotides_distribution/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastx_nucleotides_distribution</repository_name>
@@ -583,9 +448,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastx_nucleotides_distribution/cshl_fastx_nucleotides_distribution/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastx_quality_statistics/c2af34024061/fastx_quality_statistics/fastx_quality_statistics.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastx_quality_statistics/cshl_fastx_quality_statistics/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastx_quality_statistics</repository_name>
@@ -594,9 +456,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastx_quality_statistics/cshl_fastx_quality_statistics/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastx_renamer/d7bce63e6e09/fastx_renamer/fastx_renamer.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastx_renamer/cshl_fastx_renamer/0.0.11">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastx_renamer</repository_name>
@@ -605,9 +464,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastx_renamer/cshl_fastx_renamer/0.0.11</id>
         <version>0.0.11</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastx_reverse_complement/5bd826723d61/fastx_reverse_complement/fastx_reverse_complement.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastx_reverse_complement/cshl_fastx_reverse_complement/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastx_reverse_complement</repository_name>
@@ -616,9 +472,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastx_reverse_complement/cshl_fastx_reverse_complement/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/fastx_trimmer/d77c9c6ecf68/fastx_trimmer/fastx_trimmer.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/fastx_trimmer/cshl_fastx_trimmer/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fastx_trimmer</repository_name>
@@ -627,9 +480,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/fastx_trimmer/cshl_fastx_trimmer/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/split_paired_reads/36163bff76cc/split_paired_reads/split_paired_reads.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/split_paired_reads/split_paired_reads/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>split_paired_reads</repository_name>
@@ -638,9 +488,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/split_paired_reads/split_paired_reads/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/simon-gladman/fasta_stats/20ca2574216a/fasta_stats/fasta-stats.xml" guid="toolshed.g2.bx.psu.edu/repos/simon-gladman/fasta_stats/fasta-stats/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fasta_stats</repository_name>
@@ -649,9 +496,6 @@
         <id>toolshed.g2.bx.psu.edu/repos/simon-gladman/fasta_stats/fasta-stats/1.0.0</id>
         <version>1.0.0</version>
     </tool>
-</section>
-
-<section id="fasta_manipulation" name="FASTA manipulation" version="">
   <tool file="toolshed.g2.bx.psu.edu/repos/simon-gladman/fasta_extract/5dfc014a8b3a/fasta_extract/fa-extract-sequence.xml" guid="toolshed.g2.bx.psu.edu/repos/simon-gladman/fasta_extract/fa-extract-sequence/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>fasta_extract</repository_name>
