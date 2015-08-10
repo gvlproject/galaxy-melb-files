@@ -138,6 +138,14 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/annotation_profiler/Annotation_Profiler_0/1.0.0</id>
         <version>1.0.0</version>
     </tool>
+    <tool file="toolshed.g2.bx.psu.edu/repos/devteam/coverage/1e864693a1c0/coverage/coverage.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/coverage/gops_coverage_1/0.0.1">
+      <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
+        <repository_name>coverage</repository_name>
+        <repository_owner>devteam</repository_owner>
+        <installed_changeset_revision>1e864693a1c0</installed_changeset_revision>
+        <id>toolshed.g2.bx.psu.edu/repos/devteam/coverage/gops_coverage_1/0.0.1</id>
+        <version>0.0.1</version>
+    </tool>
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/basecoverage/b8a9e718caa3/basecoverage/basecoverage.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/basecoverage/gops_basecoverage_1/1.0.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>basecoverage</repository_name>
@@ -884,6 +892,22 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/bam_to_sam/2.0</id>
         <version>2.0</version>
     </tool>
+    <tool file="toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/c09a20532957/bam_to_sam/bam_to_sam.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/bam_to_sam/1.0.4">
+      <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
+        <repository_name>bam_to_sam</repository_name>
+        <repository_owner>devteam</repository_owner>
+        <installed_changeset_revision>c09a20532957</installed_changeset_revision>
+        <id>toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/bam_to_sam/1.0.4</id>
+        <version>1.0.4</version>
+    </tool>
+    <tool file="toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/dc20f447c0e2/bam_to_sam/bam_to_sam.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/bam_to_sam/1.0.3">
+      <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
+        <repository_name>bam_to_sam</repository_name>
+        <repository_owner>devteam</repository_owner>
+        <installed_changeset_revision>dc20f447c0e2</installed_changeset_revision>
+        <id>toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/bam_to_sam/1.0.3</id>
+        <version>1.0.3</version>
+    </tool>
   <tool file="toolshed.g2.bx.psu.edu/repos/iuc/bcftools/e5e78d1e09a6/bcftools/bcftools_view.xml" guid="toolshed.g2.bx.psu.edu/repos/iuc/bcftools/bcftools_view/0.1.19.0">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>bcftools</repository_name>
@@ -891,6 +915,14 @@
         <installed_changeset_revision>e5e78d1e09a6</installed_changeset_revision>
         <id>toolshed.g2.bx.psu.edu/repos/iuc/bcftools/bcftools_view/0.1.19.0</id>
         <version>0.1.19.0</version>
+    </tool>
+    <tool file="toolshed.g2.bx.psu.edu/repos/devteam/basecoverage/1e6a9e97fa41/basecoverage/basecoverage.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/basecoverage/gops_basecoverage_1/0.0.1">
+      <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
+        <repository_name>basecoverage</repository_name>
+        <repository_owner>devteam</repository_owner>
+        <installed_changeset_revision>1e6a9e97fa41</installed_changeset_revision>
+        <id>toolshed.g2.bx.psu.edu/repos/devteam/basecoverage/gops_basecoverage_1/0.0.1</id>
+        <version>0.0.1</version>
     </tool>
   <tool file="toolshed.g2.bx.psu.edu/repos/devteam/pileup_interval/0b4181be05c8/pileup_interval/pileup_interval.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/pileup_interval/pileup_interval/1.0.1">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
@@ -1019,6 +1051,30 @@
         <installed_changeset_revision>6572c40a8505</installed_changeset_revision>
         <id>toolshed.g2.bx.psu.edu/repos/gregory-minevich/bcftools_view/bcftools_view/0.0.1</id>
         <version>0.0.1</version>
+    </tool>
+    <tool file="toolshed.g2.bx.psu.edu/repos/devteam/samtools_rmdup/fe83e6f8e65e/samtools_rmdup/samtools_rmdup.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/samtools_rmdup/samtools_rmdup/1.0.1">
+      <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
+        <repository_name>samtools_rmdup</repository_name>
+        <repository_owner>devteam</repository_owner>
+        <installed_changeset_revision>fe83e6f8e65e</installed_changeset_revision>
+        <id>toolshed.g2.bx.psu.edu/repos/devteam/samtools_rmdup/samtools_rmdup/1.0.1</id>
+        <version>1.0.1</version>
+    </tool>
+    <tool file="toolshed.g2.bx.psu.edu/repos/devteam/samtools_slice_bam/68ba55e96489/samtools_slice_bam/samtools_slice_bam.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/samtools_slice_bam/samtools_slice_bam/0.0.1">
+      <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
+        <repository_name>samtools_slice_bam</repository_name>
+        <repository_owner>devteam</repository_owner>
+        <installed_changeset_revision>68ba55e96489</installed_changeset_revision>
+        <id>toolshed.g2.bx.psu.edu/repos/devteam/samtools_slice_bam/samtools_slice_bam/0.0.1</id>
+        <version>0.0.1</version>
+    </tool>
+    <tool file="toolshed.g2.bx.psu.edu/repos/devteam/samtools_slice_bam/74a8d2d60258/samtools_slice_bam/samtools_slice_bam.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/samtools_slice_bam/samtools_slice_bam/0.0.2">
+      <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
+        <repository_name>samtools_slice_bam</repository_name>
+        <repository_owner>devteam</repository_owner>
+        <installed_changeset_revision>74a8d2d60258</installed_changeset_revision>
+        <id>toolshed.g2.bx.psu.edu/repos/devteam/samtools_slice_bam/samtools_slice_bam/0.0.2</id>
+        <version>0.0.2</version>
     </tool>
 </section>
 
@@ -2997,6 +3053,17 @@
         <installed_changeset_revision>4f33ec73e445</installed_changeset_revision>
         <id>toolshed.g2.bx.psu.edu/repos/devteam/best_regression_subsets/BestSubsetsRegression1/1.0.0</id>
         <version>1.0.0</version>
+    </tool>
+</section>
+
+<section id="multivariate_analysis" name="Multivariate Analysis" version="">
+  <tool file="toolshed.g2.bx.psu.edu/repos/devteam/principal_component_analysis/f568051cdf2e/principal_component_analysis/pca.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/principal_component_analysis/pca1/1.0.2">
+      <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
+        <repository_name>principal_component_analysis</repository_name>
+        <repository_owner>devteam</repository_owner>
+        <installed_changeset_revision>f568051cdf2e</installed_changeset_revision>
+        <id>toolshed.g2.bx.psu.edu/repos/devteam/principal_component_analysis/pca1/1.0.2</id>
+        <version>1.0.2</version>
     </tool>
 </section>
 
