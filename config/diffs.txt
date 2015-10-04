@@ -1,0 +1,14 @@
+11a12,13
+> <tool file="toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/c09a20532957/bam_to_sam/bam_to_sam.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/bam_to_sam/1.0.4">
+> <tool file="toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/dc20f447c0e2/bam_to_sam/bam_to_sam.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/bam_to_sam/bam_to_sam/1.0.3">
+12a15
+> <tool file="toolshed.g2.bx.psu.edu/repos/devteam/basecoverage/1e6a9e97fa41/basecoverage/basecoverage.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/basecoverage/gops_basecoverage_1/0.0.1">
+37a41
+> <tool file="toolshed.g2.bx.psu.edu/repos/devteam/coverage/1e864693a1c0/coverage/coverage.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/coverage/gops_coverage_1/0.0.1">
+282a287
+> <tool file="toolshed.g2.bx.psu.edu/repos/devteam/principal_component_analysis/f568051cdf2e/principal_component_analysis/pca.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/principal_component_analysis/pca1/1.0.2">
+297a303
+> <tool file="toolshed.g2.bx.psu.edu/repos/devteam/samtools_rmdup/fe83e6f8e65e/samtools_rmdup/samtools_rmdup.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/samtools_rmdup/samtools_rmdup/1.0.1">
+298a305,306
+> <tool file="toolshed.g2.bx.psu.edu/repos/devteam/samtools_slice_bam/68ba55e96489/samtools_slice_bam/samtools_slice_bam.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/samtools_slice_bam/samtools_slice_bam/0.0.1">
+> <tool file="toolshed.g2.bx.psu.edu/repos/devteam/samtools_slice_bam/74a8d2d60258/samtools_slice_bam/samtools_slice_bam.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/samtools_slice_bam/samtools_slice_bam/0.0.2">

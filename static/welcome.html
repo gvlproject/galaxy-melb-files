@@ -6,69 +6,86 @@
 <meta name="generator" content="Docutils 0.3.9: http://docutils.sourceforge.net/" />
 <link rel="stylesheet" href="style/base.css" type="text/css" />
 <style type="text/css">
-    body { font-size: 14px; }
-    div.vspace { height: 4ex; }
-    h1 { margin: 4ex 4ex 2ex 0; font-size: 36px;}
-    .logos {margin-top: 4ex; }
-    .logos img  { height: 75px; max-width: 350px; }
-    img.go { width: 70px; }
-    .blurb { color: #d22; }
-    ul.myli {list-style: disc; padding-left: 20px;}
+  body{background-color:#EEEEFF;background-image:url(images/cloud.gif);background-repeat:repeat-x;background-position: center 80px;margin:0px;}
+  body { font-size: 14px; }
+  div.vspace { height: 4ex; }
+  h1 { margin: 2ex 2ex 2ex 0; font-size: 36px;}
+  .logos {margin-top: 4ex; }
+  .logos img  { height: 75px; max-width: 350px; padding-left: 20px; padding-right: 20px; }
+  img.go { width: 70px; }
+  .blurb { color: #d22; }
+  ul.myli {list-style: disc; padding-left: 20px;}
+  div.important {
+    color: #d22;
+    background-color: #FAF2D2;
+    padding: 0px 10px 10px 10px;
+    margin: 20px 20px;
+    border: 1px #FFD54D solid;
+  }
+  div.logos {
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 20px 0px 20px 0px;
+    margin: 20px 20px;
+    border: 1px #AAAAAA solid;
+  }
 </style>
 </head>
 <body>
+<div class="document">
+<div style="text-align: center; padding-top: 50px; background: white; height: 80px; color: rgb(100,100,100);">
     <h1>Welcome to Galaxy Melbourne</h1>
+    <!-- <img style="margin: auto; width: 550px;" src="/galaxy/static/images/cloud_text.png" /> -->
+</div>
+<div style="padding: 170px 120px 30px">
+  <p>
+    This Galaxy service is maintained by the <a target='_top' href='https://www.vlsci.org.au/lscc'>Life Sciences Computation Centre at the VLSCI</a>
+  </p>
+  We provide this Galaxy instance to:
+  <ul class='myli'>
+    <li>provide bioinformatics infrastructure to the Melbourne life sciences community
+    <li>give researchers tools to do their own analysis
+    <li>help improve general bioinformatics skills
+    <li>provide a platform for tutorials and other training
+  </ul>
 
-    <p>
-      This Galaxy service is maintained by the <a target='_top' href='https://www.vlsci.org.au/lscc'>Life Sciences Computation Centre at the VLSCI</a>
-    </p>
-
-    <div class='blurb'>
-    We provide this Galaxy instance to:
-    <ul class='myli'>
-      <li>provide bioinformatics infrastructure to the Melbourne life sciences community
-      <li>give researchers tools to do their own analysis
-      <li>help improve general bioinformatics skills
-      <li>provide a platform for tutorials and other training
-    </ul>
-    </div>
-    <div class='blurb'>
-    <div class=vspace></div>
-    <h1>IMPORTANT NOTE:</h1>
-    <h2>Disk Quotas</h2> <br>
-    <h3>Registered users get 100GB of disk space<br>
-    If you require more space, please contact the service administrators by <a href="mailto:simon.gladman@unimelb.edu.au">email</a></h3>
-    <p></p>
-    <h2>Storage</h2>
-    <h3>This server is designed for data analysis and not long term data storage.<br>
-    We encourage you to load your data, do your analysis and download the results.</h3>
-    </div>
-    <div class=vspace></div>
-
-    <hr/>
-    <h3>This Galaxy Service is provided to you by : </h3>
-
+  <!-- <div class=vspace></div> -->
+  <div class='important'>
+  <h2>IMPORTANT NOTE:</h2>
+  <b>Disk Quotas</b><br>
+  Registered users get 100GB of disk space.<br>
+  If you require more space, please contact the service administrators by <a href="mailto:simon.gladman@unimelb.edu.au">email</a>
+  <p style="padding: 10px 0px 0px 0px">
+  <b>Storage</b><br>
+  This server is designed for data analysis and not long term data storage.<br>
+  We encourage you to load your data, do your analysis and download the results. Please delete and purge your unneeded histories and datasets.
+  <p style="padding: 10px 0px 0px 0px">
+  <b>Running Jobs</b><br>
+  Please do not start several big analysis jobs at once. (Big is an operation that will take more than 4 hours to run.)
+  </div>
+  <!-- <hr/> -->
+  The <a target="_top" href="https://www.genome.edu.au">Genomics Virtual Laboratory</a> takes the IT out of Bioinformatics. It provides a cloud-based suite of genomics analysis tools that would normally require specialist assistance. Refer to <a href="http://genome.edu.au/get/workbench-services">workbench services </a> for full details.
+  <br /><br /><a target="_blank" class="reference" href="http://galaxyproject.org/">Galaxy</a> is an open, web-based platform for data intensive biomedical research.  The <a target="_blank" class="reference" href="http://wiki.galaxyproject.org/GalaxyTeam">Galaxy team</a> is a part of <a target="_blank" class="reference" href="http://www.bx.psu.edu">BX</a> at <a target="_blank" class="reference" href="http://www.psu.edu">Penn State</a>, and the <a target="_blank" class="reference" href="http://www.bio.jhu.edu/">Biology</a> department at <a target="_blank" class="reference" href="http://www.jhu.edu/">Johns Hopkins University</a>.  The <a target="_blank" class="reference" href="http://galaxyproject.org/">Galaxy Project</a> is supported in part by <a target="_blank" class="reference" href="http://www.genome.gov">NHGRI</a>, <a target="_blank" class="reference" href="http://www.nsf.gov">NSF</a>, <a target="_blank" class="reference" href="http://www.huck.psu.edu">The Huck Institutes of the Life Sciences</a>, <a target="_blank" class="reference" href="http://www.ics.psu.edu">The Institute for CyberScience at Penn State</a>, and <a target="_blank" class="reference" href="http://www.jhu.edu/">Johns Hopkins</a>.</p>
+  <div class='vspace'></div>
+  <h3>This Galaxy Service within the Genomics Virtual Lab is provided to you by:</h3>
     <div class='logos'>
-        <a target='_top' href='http://genome.edu.au'><img src='/galaxy/static/images/gvl.png'></a>
-        <a target='_top' href='http://www.vlsci.org.au/lscc'><img src='/galaxy/static/images/vlsci-logo.gif'></a>
-        <a target='_top' href='http://www.unimelb.edu.au'><img src='/galaxy/static/images/UOM-Rev3D_S_SmRBG.jpg'></a>
-        <a target='_top' href='http://www.emblaustralia.org'><img src='/galaxy/static/images/EMBL_Australia_logo.png'></a>
+      <a target='_top' href='http://genome.edu.au'><img src='images/gvl.png'></a>
+      <!-- <a target='_top' href='http://genome.edu.au'><img src='images/gvl_transparent_black_beta_2.png'></a> -->
+      <a target='_top' href='http://www.vlsci.org.au/lscc'><img src='images/vlsci-logo.gif'></a>
+      <a target='_top' href='http://www.emblaustralia.org'><img src='images/embl.png'></a>
+      <p style="padding: 10px 0px 0px 0px">
+      <a target='_top' href='http://www.unimelb.edu.au'><img src='images/logo_uom.png'></a>
+      <a target='_top' href='http://www.nectar.org.au'><img src='images/Nectar_logo.jpeg'></a>
+      <p style="padding: 10px 0px 0px 0px">
+      <a target='_top' href='http://www.nectar.org.au'><img src='images/RDSILOGO.jpg'></a>
+      <a target='_top' href='http://www.ands.org.au/'><img src='images/ands-logo.jpg'></a>
     </div>
-
-    <div class='vspace'></div>
-
-    <div class='logos'>
-      <a target='_top' href='http://www.nectar.org.au'><img src='/galaxy/static/images/Nectar_logo.jpeg'></a>
-      <a target='_top' href='http://www.nectar.org.au'><img src='/galaxy/static/images/RDSILOGO.jpg'></a>
-      <a target='_top' href='http://www.ands.org.au/'><img src='/galaxy/static/images/andsLOGO.png'></a>
-    </div>
-
-    <h3>Problems?</h3>
-
-    <p>
-    Please contact
-    <a href='mailto:simon.gladman@unimelb.edu.au'>Simon Gladman</a> or<br>
-    <a href='mailto:jchung@unimelb.edu.au'>Jessica Chung</a>.
-
+  <div class='vspace'></div>
+  <h3>Problems?</h3>
+  <p>
+  Please contact
+  <a href='mailto:simon.gladman@unimelb.edu.au'>Simon Gladman</a> or
+  <a href='mailto:jchung@unimelb.edu.au'>Jessica Chung</a>.
+</div>
 </body>
 </html>
