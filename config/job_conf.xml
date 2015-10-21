@@ -11,7 +11,7 @@
     <handlers default="main">
         <handler id="main" />
     </handlers>
-    <destinations default="slurm_cluster">
+    <destinations default="default_dynamic_job_wrapper">
         <!-- Slurm specific destinations -->
         <destination id="slurm_cluster" runner="slurm"/>
         <destination id="slurm_2slots" runner="slurm">
@@ -35,7 +35,7 @@
 
         <destination id="default_dynamic_job_wrapper" runner="dynamic">
           <param id="type">python</param>
-          <param id="function">mapping_dynamic_job_wrapper</param>
+          <param id="function">default_dynamic_job_wrapper</param>
         </destination>
 
         <!-- pulsar config -->
@@ -47,11 +47,11 @@
     <tools>
         <!-- <tool id="upload1" destination="local_runner" /> -->
         <!-- <tool id="random_lines1" destination="pulsar_server" /> -->
-        <tool id="toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa_mem/0.3.1" destination="mapping_dynamic" />
+        <!-- <tool id="toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa_mem/0.3.1" destination="mapping_dynamic" />
         <tool id="toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa/0.3.1" destination="slurm_4slots" />
         <tool id="toolshed.g2.bx.psu.edu/repos/devteam/bowtie2/bowtie2/0.6" destination="slurm_4slots" />
         <tool id="testtoolshed.g2.bx.psu.edu/repos/simon-gladman/velvetoptimiser/velvetoptimiser/1.1.0" destination="slurm_4slots" />
-        <tool id="toolshed.g2.bx.psu.edu/repos/pjbriggs/trimmomatic/trimmomatic/0.32.2" destination="slurm_4slots" />
+        <tool id="toolshed.g2.bx.psu.edu/repos/pjbriggs/trimmomatic/trimmomatic/0.32.2" destination="slurm_4slots" /> -->
 
     </tools>
 </job_conf>
